@@ -1,3 +1,4 @@
+#word-sys
 
 import sys
 import os
